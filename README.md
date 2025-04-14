@@ -50,4 +50,4 @@ This project aims to predict hospital readmissions for diabetic patients using s
 
 ## Authors
 
-Amishi Desai (https://github.com/AmishiDesai04), Chahel Gupta(https://github.com/chahelgupta), Kirtan Thakkar(https://github.com/), Ishwari Birje (https://github.com/)
+ [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) 
